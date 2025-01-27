@@ -6,3 +6,4 @@ langgraph
 langchain_groq
 uvicorn
 streamlit
+python-dotenv
