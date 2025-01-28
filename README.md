@@ -44,3 +44,5 @@ streamlit run ui.py
 - Customizable system prompts
 - Web search capabilities through Tavily
 - Simple chat interface
+
+![chatbot ui](chatbot-ui.png)
